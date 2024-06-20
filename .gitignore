@@ -1,0 +1,5 @@
+/.idea
+/save
+/*.txt
+/data/*.txt
+/data/*.pkl
